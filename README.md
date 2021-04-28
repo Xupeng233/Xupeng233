@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on iOS develop
 
+- 💪 I'm a iOSer
+
 
        
 
