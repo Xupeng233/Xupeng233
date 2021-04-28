@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xupeng233&show_icons=true&theme=radical&hide=contribs,prs"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xupeng233&show_icons=true&theme=radical&hide=prs"/>
 
 - 🔭 I’m currently working on bytedance
 
